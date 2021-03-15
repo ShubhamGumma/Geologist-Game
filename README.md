@@ -1,2 +1,2 @@
-# Geologist-Game
-Time to burry through the past and start digging........
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
